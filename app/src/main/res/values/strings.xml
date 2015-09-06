@@ -1,0 +1,8 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Materialize Xposed Installer</string>
+
+    <!-- Preference Titles -->
+    <string name="title_activate_module">Activate Module</string>
+    <string name="title_theme_list_preference">Choose Desired Theme</string>
+</resources>

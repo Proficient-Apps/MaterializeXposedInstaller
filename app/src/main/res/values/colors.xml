@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colours from official app. -->
+    <color name="card_background_dark">#363636</color>
+    <color name="card_background_pressed_dark">#505050</color>
+    <color name="card_shadow_dark">#161616</color>
+</resources>
