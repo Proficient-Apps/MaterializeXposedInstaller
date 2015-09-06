@@ -10,18 +10,10 @@ You may compile a different version for your personal use.
 
 Screenshots :
 
-![alt tag](http://s5.postimg.org/sucj503tj/Screenshot_2015_09_06_16_34_17.png)
+![alt tag](http://s5.postimg.org/sucj503tj/Screenshot_2015_09_06_16_34_17.png)  ![alt tag](http://s5.postimg.org/42cwxrmmv/Screenshot_2015_09_06_16_34_23.png)
 
-![alt tag](http://s5.postimg.org/42cwxrmmv/Screenshot_2015_09_06_16_34_23.png)
+![alt tag](http://s5.postimg.org/vw3beygyf/Screenshot_2015_09_06_16_34_32.png)  ![alt tag](http://s5.postimg.org/ohil0bkgn/Screenshot_2015_09_06_16_34_38.png)
 
-![alt tag](http://s5.postimg.org/vw3beygyf/Screenshot_2015_09_06_16_34_32.png)
+![alt tag](http://s5.postimg.org/6kylyg8d3/Screenshot_2015_09_06_16_30_32.png)  ![alt tag](http://s5.postimg.org/kh6uac4lz/Screenshot_2015_09_06_16_30_38.png)
 
-![alt tag](http://s5.postimg.org/ohil0bkgn/Screenshot_2015_09_06_16_34_38.png)
-
-![alt tag](http://s5.postimg.org/6kylyg8d3/Screenshot_2015_09_06_16_30_32.png)
-
-![alt tag](http://s5.postimg.org/kh6uac4lz/Screenshot_2015_09_06_16_30_38.png)
-
-![alt tag](http://s5.postimg.org/r8x9d6tlj/Screenshot_2015_09_06_16_30_44.png)
-
-![alt tag](http://s5.postimg.org/jqe44k28n/Screenshot_2015_09_06_16_30_52.png)
+![alt tag](http://s5.postimg.org/r8x9d6tlj/Screenshot_2015_09_06_16_30_44.png)  ![alt tag](http://s5.postimg.org/jqe44k28n/Screenshot_2015_09_06_16_30_52.png)
