@@ -1,0 +1,13 @@
+<resources>
+    <!-- Preference Titles -->
+    <string name="title_activate_module">Aktivovať modul</string>
+    <string name="title_theme_list_preference">Výber témy</string>
+    <string name="title_pref_cat_1">Možnosti témy</string>
+    <string name="title_colour_primary">Primárna farba</string>
+    <string name="title_colour_accent">Farba zvýraznenia</string>
+    <string name="title_colour_bg">Farba pozadia</string>
+
+    <!-- Colour Picker Texts -->
+    <string name="dialog_color_picker">Výber farby</string>
+    <string name="press_color_to_apply">Kliknutím potvrdíte</string>
+</resources>
