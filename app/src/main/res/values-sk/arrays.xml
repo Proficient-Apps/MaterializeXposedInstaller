@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_entries" >
+        <item>Pôvodná</item>
+        <item>"Material UI svetlá + tmavá  lišta [odporúčané]"</item>
+        <item>"Material UI svetlá"</item>
+        <item>"Material UI tmavá"</item>
+    </string-array>
+</resources>
