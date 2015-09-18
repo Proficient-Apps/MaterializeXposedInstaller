@@ -4,4 +4,11 @@
     <color name="card_background_dark">#363636</color>
     <color name="card_background_pressed_dark">#505050</color>
     <color name="card_shadow_dark">#161616</color>
+
+    <color name="colorAccent0">#FF0094FF</color>
+    <color name="colorAccent1">#FFFF006E</color>
+    <color name="colorAccent2">#FFFF0000</color>
+    <color name="colorAccent3">#FFFF6A00</color>
+    <color name="colorAccent4">#FFFFD800</color>
+    <color name="colorAccent5">#FFB200FF</color>
 </resources>

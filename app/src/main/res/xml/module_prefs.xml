@@ -3,7 +3,8 @@
     <!-- Switch to easily activate / deactivate module. -->
     <SwitchPreference
         android:title="@string/title_activate_module"
-        android:key="pref_key_activate_module" />
+        android:key="pref_key_activate_module"
+        android:defaultValue="true"/>
     <!-- List of supported themes -->
     <ListPreference
         android:title="@string/title_theme_list_preference"
@@ -12,4 +13,24 @@
         android:entryValues="@array/theme_values"
         android:defaultValue="1"
         android:dependency="pref_key_activate_module" />
+    <PreferenceCategory android:title="@string/title_pref_cat_1">
+        <in.proficientapps.MaterializeXposedInstaller.preferences.ColorPickerPreference
+            android:title="@string/title_colour_primary"
+            android:key="pref_key_colour_primary"
+            alphaSlider="true"
+            showCheckBox="true"
+            android:dependency="pref_key_activate_module" />
+        <in.proficientapps.MaterializeXposedInstaller.preferences.ColorPickerPreference
+            android:title="@string/title_colour_accent"
+            android:key="pref_key_colour_accent"
+            alphaSlider="true"
+            showCheckBox="true"
+            android:dependency="pref_key_activate_module" />
+        <in.proficientapps.MaterializeXposedInstaller.preferences.ColorPickerPreference
+            android:title="@string/title_colour_bg"
+            android:key="pref_key_colour_bg"
+            alphaSlider="true"
+            showCheckBox="true"
+            android:dependency="pref_key_activate_module" />
+    </PreferenceCategory>
 </PreferenceScreen>

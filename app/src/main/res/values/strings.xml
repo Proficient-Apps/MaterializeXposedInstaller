@@ -5,4 +5,14 @@
     <!-- Preference Titles -->
     <string name="title_activate_module">Activate Module</string>
     <string name="title_theme_list_preference">Choose Desired Theme</string>
+    <string name="title_pref_cat_1">Theme Options</string>
+    <string name="title_colour_primary">Primary Colour</string>
+    <string name="title_colour_accent">Accent Colour</string>
+    <string name="title_colour_bg">Background Colour</string>
+
+    <!-- Colour Picker Texts -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Click to apply</string>
+    <string name="hint_hex">HEX</string>
+    <string name="arrow">→</string>
 </resources>
